@@ -1,0 +1,7 @@
+# Requirements for the project
+
+pandas==1.4.0             # Data manipulation and analysis
+numpy==1.21.2             # Numerical computations
+matplotlib==3.5.1         # Plotting library
+scikit-learn==1.0.2       # Machine learning library
+torch==1.10.1             #PyTorch, specify versions for compatibility with CUDA if needed
